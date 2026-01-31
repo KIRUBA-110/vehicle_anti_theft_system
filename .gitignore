@@ -1,0 +1,27 @@
+# Keil uVision build artifacts
+*.obj
+*.lst
+*.m51
+*.hex
+*.bin
+*.lnp
+*.i
+*.sfr
+*.crf
+*.dep
+*.uvgui.*
+*._ia
+*.bak
+*.txt
+*.plg
+*.htm
+
+# uVision project management files
+*.uvopt
+*.uvproj
+*.uvoptx
+*.uvprojx
+
+# Listings and Objects folders
+Listings/
+Objects/
